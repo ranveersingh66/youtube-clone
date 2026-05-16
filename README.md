@@ -5,7 +5,6 @@ A responsive YouTube homepage clone built using pure HTML, CSS.
 🔗 **Live Demo:**  
 https://ranveersingh66.github.io/youtube-clone/
 
----
 
 ## 📌 Features
 
